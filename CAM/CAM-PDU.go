@@ -1,6 +1,6 @@
 package CAM
 
-import "github.com/pprizbul/go-ITS/protocols/CDD"
+import "github.com/pprizbul/go-ITS/CDD"
 
 type CAM struct {
 	Header CDD.ItsPduHeader

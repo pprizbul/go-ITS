@@ -43,7 +43,7 @@ OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ## Usage
 
-Import the module into your Golang project with `go get github.com/pprizbul/go-ITS/protocols`
+Import the module into your Golang project with `go get github.com/pprizbul/go-ITS`
 
 ## Examples
 

@@ -4,9 +4,9 @@ import (
 	"encoding/asn1"
 	"fmt"
 
-	"github.com/pprizbul/go-ITS/protocols/CAM"
-	"github.com/pprizbul/go-ITS/protocols/CDD"
-	"github.com/pprizbul/go-ITS/protocols/CVM"
+	"github.com/pprizbul/go-ITS/CAM"
+	"github.com/pprizbul/go-ITS/CDD"
+	"github.com/pprizbul/go-ITS/CVM"
 )
 
 type Header struct {

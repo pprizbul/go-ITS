@@ -1,6 +1,6 @@
 package CVM
 
-import "github.com/pprizbul/go-ITS/protocols/CDD"
+import "github.com/pprizbul/go-ITS/CDD"
 
 const Cvm CDD.MessageId = 45 //MessageId for CVM
 
