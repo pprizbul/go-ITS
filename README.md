@@ -68,7 +68,7 @@ case ...
 
 Encoding message
 ```
-camMessage := CAM.CAM{}
+camMessage := CAM.CamPayload{} //Header is added dynamically
 
 data, err := codec.Encode(camMessage)
 if err != nil {
