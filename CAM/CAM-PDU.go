@@ -19,7 +19,7 @@ type CamParameters struct {
 	//SpecialVehicleContainer  SpecialVehicleContainer OPTIONAL
 }
 
-type HighFrequencyContainer struct { //OPTION
+type HighFrequencyContainer struct { //CHOICE
 	BasicVehicleContainerHighFrequency BasicVehicleContainerHighFrequency
 	//RsuContainerHighFrequency          RSUContainerHighFrequency
 }

@@ -1,11 +1,3 @@
-/*
-Common data ditctionary ASN implementation (CDD.asn), ETSI standard TS 102 894-2 V2.2.1
-Not all field are implemented, just fields that CAM protocol use. Order of implementations are
-same as in ASN file.
-
-ENUM, const, etc.
-*/
-
 package CDD
 
 type AccelerationConfidence int //51
