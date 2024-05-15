@@ -4,6 +4,8 @@
 Implemetation of ETSI CDD (common data dictionary) and CAM protocol, custom CVM (Control Vehicle Message) protocol and encoding/decoding as a Golang library. 
 This project was done as uni work.
 
+For more information, refer to documentation https://github.com/pprizbul/go-ITS/wiki/Technical-documentation
+
 ## Copyright
 The ASN.1 files are taken from official ETSI documents. Please refer to them for more information.
 
@@ -44,6 +46,8 @@ OF THE POSSIBILITY OF SUCH DAMAGE.
 ## Usage
 
 Import the module into your Golang project with `go get github.com/pprizbul/go-ITS`
+
+In code, you can import whatever package you need with `"github.com/pprizbul/go-ITS/<pkgName>"`
 
 ## Examples
 
