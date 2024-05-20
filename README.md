@@ -1,8 +1,8 @@
 # go-ITS
 
 ## Description
-Implemetation of ETSI CDD (common data dictionary) and CAM protocol, custom CVM (Control Vehicle Message) protocol and encoding/decoding as a Golang library. 
-This project was done as uni work.
+Implementation of ETSI CDD (common data dictionary) and CAM protocol, custom CVM (Control Vehicle Message) protocol and encoding/decoding as a Golang library. 
+This project was done as university work.
 
 For more information, refer to documentation https://github.com/pprizbul/go-ITS/wiki/Technical-documentation
 
@@ -12,7 +12,7 @@ The ASN.1 files are taken from official ETSI documents. Please refer to them for
 - CAM: ETSI TS 103 900 - V2.1.1 (2023-11)
 - CDD: ETSI TS 102 894-2 - V2.2.1 (2023-10)
 
-ASN.1 files are available on https://forge.etsi.org/rep/ITS/asn1 in their respecive folders.
+ASN.1 files are available on https://forge.etsi.org/rep/ITS/asn1 in their respective folders.
 
 Copyright notice:
 ```
